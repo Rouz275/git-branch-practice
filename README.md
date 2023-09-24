@@ -1,3 +1,3 @@
 # git-branch-practice
 
-Repository for practice learning git branches.
+This project is from [Thinkful's](https://www.thinkful.com/bootcamp/web-development/) Software Engineering Bootcamp. It is a repository for practice learning git branches.
